@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔭 I’m a MLSA(Microsoft Learn Student Ambassador) and a Technical Writer at Hashnode...
 
 
-🌱 I’m currently learning on FullStack Web Development and I am an aspiring DevOps Enthusiast...
+🌱 I’m currently learning FullStack Web Development and I'm an aspiring DevOps Enthusiast...
 
 
 ❤️ Other than Programming I love to do workout and running...
@@ -31,7 +31,11 @@ Here are some ideas to get you started:
 Connect With Me:
 
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedi&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)   ![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   ![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)   ![hashnode](https://shivankkapur.hashnode.dev/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedi&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)   ![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   ![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+
+
+![Shivank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical)
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact)](https://github.com/ShivankK26/github-readme-stats)
