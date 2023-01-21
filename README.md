@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 ❤️ Other than Programming I love to do workout and running...
 
 
-📫 Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
 
 
-Connect With Me:
+📫 Connect With Me:
+
+
+Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
+
 
 ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedi&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)   ![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)   ![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)  ![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
