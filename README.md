@@ -67,7 +67,7 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
     <img src="https://skillicons.dev/icons?i=python,c,js" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,dom,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,dom,mysql,nodejs,expressjs" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
