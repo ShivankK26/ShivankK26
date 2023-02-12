@@ -48,6 +48,9 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
   <a href="https://twitter.com/k_shivank26">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://dev.to/shivankk26" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  </a>
   
 </div>
 
