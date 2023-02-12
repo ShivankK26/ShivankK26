@@ -4,7 +4,6 @@ Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Shivank Kapur...
 </h1></center>
 
-
 <!--
 **ShivankK26/ShivankK26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h3>
 👩‍💻 About Me :
-
+</h3>
 🔭 I’m an Alpha- MLSA(Microsoft Learn Student Ambassador) and a Technical Writer at Hashnode...
 
 
@@ -30,10 +29,11 @@ Here are some ideas to get you started:
 
 ❤️ Other than Programming I love to do workout and running...
 
+<hr>
 
-
-
+<h3>
 📫 Connect With Me:
+</h3>
 
 
 Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
@@ -55,14 +55,19 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
   
 </div>
 
+<hr>
 
 
 ![Shivank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact)](https://github.com/ShivankK26/github-readme-stats)
 
+<hr>
 
+<h3>
 🛠️ Languages and Tools :
+</h3>
+
 <p align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,js" />
@@ -79,5 +84,6 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
 </p>
 
 
+<hr>
 
 
