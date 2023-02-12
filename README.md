@@ -1,26 +1,21 @@
-![GIF](https://tenor.com/en-GB/view/coding-gif-18657810.gif)
-<center><h1>
+<div align="center">
+<img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
+</div>  
+
+
+<div align="center">
+<h1>
 Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Shivank Kapur...
-</h1></center>
+</h1>
+</div>
 
-<!--
-**ShivankK26/ShivankK26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 <h3>
 👩‍💻 About Me :
 </h3>
+
 🔭 I’m an Alpha- MLSA(Microsoft Learn Student Ambassador) and a Technical Writer at Hashnode...
 
 
@@ -28,9 +23,11 @@ Here are some ideas to get you started:
 
 
 ❤️ Other than Programming I love to do workout and running...
+</div>
 
 <hr>
 
+<div id="badges" align="center">
 <h3>
 📫 Connect With Me:
 </h3>
@@ -39,7 +36,6 @@ Here are some ideas to get you started:
 Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
 
 
-<div id="badges">
   <a href="https://www.linkedin.com/in/shivankkapur/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -57,13 +53,19 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
 
 <hr>
 
+<div align="center">
+<h3>🔥 Github Stats:</h3>
 
-![Shivank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical" align="center" style="width: 50%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact" align="center" style="width: 50%" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact)](https://github.com/ShivankK26/github-readme-stats)
 
 <hr>
 
+
+<div id="badges" align="center">
 <h3>
 🛠️ Languages and Tools :
 </h3>
@@ -82,7 +84,7 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
     <img src="https://skillicons.dev/icons?i=pr,canva,wordpress,tinkercad" />
 </a>  
 </p>
-
+</div>
 
 <hr>
 
