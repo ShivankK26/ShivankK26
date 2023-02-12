@@ -1,8 +1,8 @@
 ![GIF](https://tenor.com/en-GB/view/coding-gif-18657810.gif)
-# <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Shivank Kapur...
-</h1> 
+<center><h1>
+Hey there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, I'm Shivank Kapur...
+</h1></center>
 
 
 <!--
