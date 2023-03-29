@@ -45,7 +45,7 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
   <a href="https://shivankkapur.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="https://twitter.com/k_shivank26">
+  <a href="https://twitter.com/ShivankK26">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://dev.to/shivankk26" target="_blank">
