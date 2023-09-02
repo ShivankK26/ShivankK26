@@ -16,13 +16,13 @@ Hey there
 👩‍💻 About Me :
 </h3>
 
-🔭 I’m an Beta- MLSA(Microsoft Learn Student Ambassador) and a Technical Writer at Hashnode...
+🔭 I’m the Dev Ambassador of @router-protocol representing New Delhi, India Region, wherein I conduct various Workshops related to CrossChain dApps, Solidity, etc.
 
 
-🌱 I’m a FullStack Developer and a Web3 Advocate...
+🌱 I’m a Beta Microsoft Learn Student Ambassador and the Community Manager at @Eduhub-Community.
 
 
-❤️ Other than Programming I love to do workout and running...
+❤️ I'm a FullStack Developer and a Technical Writer too.
 </div>
 
 <hr>
