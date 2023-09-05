@@ -75,16 +75,16 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,java,solidity" />
+    <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,dom,mysql,nodejs,expressjs,mongo,react,next,langchain,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,nodejs,expressjs,mongo,mysql,react,next,graphql,figma" />
 </a>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,canva,wordpress,tinkercad" />
+    <img src="https://skillicons.dev/icons?i=pr,canva,wordpress" />
 </a>  
 </p>
 </div>
