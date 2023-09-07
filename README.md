@@ -16,7 +16,7 @@ Hey there
 👩‍💻 About Me :
 </h3>
 
-🔭 I’m the Community Advocate of @router-protocol representing New Delhi, India Region, wherein I conduct various Workshops related to CrossChain dApps, Solidity, etc...
+🔭 I’m the Community Advocate of @router-protocol representing New Delhi, India Region, wherein I conduct various Workshops related to CrossChain dApps, Solidity, etc... Other than that I'm the Ambassador Of @PushProtocol
 
 
 🌱 I’m a Beta Microsoft Learn Student Ambassador and the Community Manager at @Eduhub-Community...
