@@ -84,7 +84,7 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </a>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,wordpress" />
+    <img src="https://skillicons.dev/icons?i=pr,wordpress,postgresql" />
 </a>  
 </p>
 </div>
