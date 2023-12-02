@@ -22,7 +22,7 @@ Hey there
 🌱 I’m a Beta Microsoft Learn Student Ambassador and the Community Manager at @Eduhub-Community...
 
 
-❤️ I'm a FullStack Web3 Developer trying out different Web3 Protocols and a Technical Writer too... and ya I love building stuff ;)
+❤️ I'm a FullStack Web3 Developer trying out different Web3 Protocols and a Technical Writer too... and ya I love building stuff...
 </div>
 
 <hr>
