@@ -19,7 +19,7 @@ Hey there
 🔭 I’m the Community Advocate of @router-protocol representing New Delhi, India Region, wherein I conduct various Workshops related to CrossChain dApps, Solidity, etc. Other than that I'm the Program Moderator Of @PushProtocol too...!!
 
 
-🌱 I’m a Beta Microsoft Learn Student Ambassador and the Community Manager at @Eduhub-Community...!
+🌱 I’m a Beta Microsoft Learn Student Ambassador and the Community Manager at @Eduhub-Community...!!
 
 
 ❤️ I'm a FullStack Web3 Developer trying out different Web3 Protocols and a Technical Writer too... and ya I love building stuff...!
