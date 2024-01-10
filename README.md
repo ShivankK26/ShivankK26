@@ -33,7 +33,7 @@ Hey there
 </h3>
 
 
-Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin...
+Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
 
 
   <a href="https://www.linkedin.com/in/shivankkapur/">
