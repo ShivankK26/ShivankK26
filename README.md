@@ -2,14 +2,12 @@
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
 </div>  
 
-
 <div align="center">
 <h1>
 Hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, Myself Shivank Kapur....
 </h1>
 </div>
-
 
 <div align="center">
 <h3>
@@ -30,9 +28,7 @@ Hey there
 📫 Connect With Me:
 </h3>
 
-
 Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
-
 
   <a href="https://www.linkedin.com/in/shivankkapur/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -49,7 +45,6 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
   <a href="https://dev.to/shivankk26" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
-  
 </div>
 
 <hr>
@@ -62,9 +57,7 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact" align="center" style="width: 50%" />
 </div>
 
-
 <hr>
-
 
 <div id="badges" align="center">
 <h3>
@@ -88,5 +81,3 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
 </div>
 
 <hr>
-
-
