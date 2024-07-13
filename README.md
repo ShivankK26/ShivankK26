@@ -1,35 +1,10 @@
 <div align="center">
 <img src="https://tenor.com/en-GB/view/coding-gif-18657810.gif" align="center" style="width: 100%" />
-</div>  
-
-<div align="center">
-<h1>
-Hey there
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>, Myself Shivank Kapur....
-</h1>
-</div>
-
-<div align="center">
-<h3>
-👩‍💻 About Me :
-</h3>
-
-🔭 DevRel Engineer @router-protocol...
-
-🌱 Contributooor at @superteamdao...
-
-❤️ FullStack BlockChain Developer who's always buidlinggg...
-</div>
-
-<hr>
+</div> 
+</p>
+<br>
 
 <div id="badges" align="center">
-<h3>
-📫 Connect With Me:
-</h3>
-
-Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
-
   <a href="https://www.linkedin.com/in/shivankkapur/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -39,45 +14,194 @@ Reach Me out at: shivankkapur2004@gmail.com or message me on Linkedin....
   <a href="https://shivankkapur.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="https://twitter.com/ShivankK26">
+  <a href="https://x.com/ShivankK26">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://dev.to/shivankk26" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+  <a href="mailto:shivankkapur2004@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100px" height="28px"/>
   </a>
 </div>
+<br>
 
-<hr>
+---
+<br>
+
+<h1 align="center">
+  Hey there,
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  myself Shivank Kapur!
+</h1>
+
+
+### :woman_technologist: About Me :
+
+I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely.
+
+<details>
+<summary><b>Developer Relations Engineer at Router Protocol</b></summary>
+  
+- Worked on SDK, CLI, and Dev Documentations and weekly audits for Developer Resources, fixed issues in Testnet v2.
+- Researched more on Ethereum Ecosystem for improving the technology.
+- Built a Dashboard for analysis of Competitor Bridges like - Across Protocol, Stargate.
+- Evangelized about the Products - Router Nitro and cross-chain Intent Framework.
+- Built Router Academy - Platform for Learning CrossChain Development using Router Protocol.
+- Wrote Technical Articles to help Developers get Onboard.
+</details>
+
+<details>
+<summary><b>Blockchain Engineer Intern at Doge Capital</b></summary>
+  
+- Led the Frontend Engineering Team.
+- Worked on Solana and other Protocol Integrations.
+- Did Extensive Testing of the Products like wardrobe.live and fomowtf.com in Alpha and Beta Phase.
+</details>
+
+<details>
+<summary><b>Research Analyst at BlackRabbit</b></summary>
+  
+- Conducted in-depth Research on various Cryptocurrency Projects, Blockchain Technology, and Decentralized Finance (DeFi) Protocols. Especially in Bitcoin, Ethereum, DePin, Solana, RWA Ecosystem.
+- Analyzed Market Trends, Industry news, and emerging Developments in the Crypto Space.
+- Created high-quality written Reports, including Articles, Blog Posts and Social Media updates, to educate and engage
+our audience.
+- Assisted with Report Planning, Editorial Calendar Management, and Report Distribution across Multiple Platforms.
+</details>
+
+<details>
+<summary><b>Push Moderator at Push Protocol</b></summary>
+  
+- Managing all the Push Protocol India Ambassadors. 
+- Planning & Executing Effective Strategies to Grow Push Protocol Ambassador Program. 
+- Making Open Source Contributions & helping in Maintaining the Push Docs. 
+- Planning out Growth Strategies for Push DAO.
+</details>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-<h3>🔥 Github Stats:</h3>
+  <h2>Languages</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical" align="center" style="width: 50%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact" align="center" style="width: 50%" />
+  <h2>Frontend Development</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
+
+  <h2>Backend Development</h2>
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socket.io" alt="socket.io" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" title="appwrite" alt="appwrite" width="40" height="40"/>&nbsp;
+
+  <h2>Cross-Platform App Development</h2>
+  <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/72fe1e24-4fda-490c-b0c2-76a82e018e58" title="React Native" alt="React Native" width="40" 
+  height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron JS" alt="Electron JS" 
+  width="40" height="40"/>&nbsp;
+
+  <h2>DevOps & Tools</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+
+  <h2>Testing</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypressio" alt="Cypressio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+
+  <h2>Design & Other Tools</h2>
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucket" alt="BitBucket" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/df5hitkbj/image/upload/v1692510083/postman_mtlyjj.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
-<hr>
 
-<div id="badges" align="center">
-<h3>
-🛠️ Languages and Tools :
-</h3>
+---
+
+### :fire: My Stats :
 
 <p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,java,solidity" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,nodejs,expressjs,mongo,mysql,react,next,graphql,figma" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,wordpress,postgresql" />
-</a>  
+<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/><br>
+<img src="https://stats.quine.sh/ShivankK26/github?theme=dark" width="350">
+<img src="https://stats.quine.sh/ShivankK26/dependencies?theme=dark" width="350"><br>
+<img src="https://stats.quine.sh/ShivankK26/topics-over-time?theme=dark" width="350">
+<img src="https://stats.quine.sh/ShivankK26/languages-over-time?theme=dark" width="350"><br>
 </p>
-</div>
 
-<hr>
+---
+
+### :black_nib: My Blog Posts :
+
+<table>
+    <tr>
+        <td style="width:250px; vertical-align: center;">
+            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719124434477/790da33c-dbd0-4f0b-a9a2-88424b1387d2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="500px" style="margin-right: 20px;" />
+        </td>
+        <td>
+            <h2><a href="https://blog.namespacecomm.in/building-a-custom-compiler-or-transpiler-with-nodejs">Building a Custom Compiler or Transpiler with Node.js</a></h2>
+            <h4><strong> Breaking Boundaries with Node.js: Crafting a Custom Compiler with Advanced Optimization Techniques and Expanded Functionality</strong></h4>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:250px; vertical-align: center;">
+            <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1716101251452/1f430c58-34c4-4a1f-9695-b4017957d75b.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="500px" style="margin-right: 20px;" />
+        </td>
+        <td>
+            <h2><a href="https://blog.namespacecomm.in/automating-your-workflow-with-github-actions">Automating your workflow with GitHub Actions</a></h2>
+            <h4><strong> From basics to advanced deployments with real-world examples</strong></h4>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:250px; vertical-align: center;">
+            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/b0ea9195-2bbe-47a5-a6f1-1462f6923b5f" width="500px" style="margin-right: 20px;" />
+        </td>
+        <td>
+            <h2><a href="https://blog.namespacecomm.in/github-api-demystified-a-developers-handbook">GitHub API Demystified: A Developer's Handbook</a></h2>
+            <h4><strong> Automation, Integration, and Efficiency</strong></h4>
+        </td>
+    </tr>
+    <tr>
+        <td style="width:250px; vertical-align: center;">
+            <img src="https://github.com/pradeeptosarkar/pradeeptosarkar/assets/50446690/6a7036ed-f98c-4076-b0cc-380cbd51f9ca" width="500px" style="margin-right: 20px;" />
+        </td>
+        <td>
+            <h2><a href="https://blog.namespacecomm.in/looking-back-1-year-of-nscc-bpit">Looking Back: 1 year of NSCC BPIT</a></h2>
+            <h4><strong> A journey of passion and learning</strong></h4>
+        </td>
+    </tr>
+</table>
