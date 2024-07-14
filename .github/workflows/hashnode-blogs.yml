@@ -1,0 +1,53 @@
+name: Update Hashnode Blogs
+
+on: 
+  schedule:
+    # updates every midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Fetch Hashnode Blogs
+      id: fetch-blogs
+      run: |
+        curl -s 'https://hashnode.com/api/ShivankKapur' | jq -r '.data.user.publication.posts[].title' > blogs.txt
+
+    - name: Update README
+      run: |
+        echo -e "## Latest Hashnode Blogs\n" > README.md
+        while IFS= read -r blog; do
+          echo "- $blog" >> README.md
+        done < blogs.txt
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add README.md
+        git commit -m 'Update README with latest Hashnode blogs'
+        git push
+
+
+# jobs:
+#  update_blogs:
+#    name: "Update Blogs"
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: "📥  Fetching Repository Contents"
+#        uses: actions/checkout@main
+#
+#      - name: "📚  Hashnode Updater"
+#        uses: "varunsridharan/action-hashnode-blog@main"
+#        with:
+#          USERNAME: 'your-username' # Hashnode Username
+#          BLOG_URL: 'your-blog-url' # Blog URL
+#          COUNT: 10 # MAX Visisble
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
