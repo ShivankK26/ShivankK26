@@ -67,7 +67,7 @@ our audience.
 </details>
 
 <details>
-<summary><b>Push Moderator at Push Protocol</b></summary>
+<summary><b>Program Moderator at Push Protocol</b></summary>
   
 - Managing all the Push Protocol India Ambassadors. 
 - Planning & Executing Effective Strategies to Grow Push Protocol Ambassador Program. 
