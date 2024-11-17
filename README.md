@@ -49,7 +49,7 @@ I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WU
 </details>
 
 <details>
-<summary><b>Blockchain Engineer Intern at Doge Capital</b></summary>
+<summary><b>Blockchain Engineer at Doge Capital</b></summary>
   
 - Led the Frontend Engineering Team.
 - Worked on Solana and other Protocol Integrations.
