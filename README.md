@@ -14,7 +14,7 @@
   <a href="https://shivankkapur.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="https://x.com/ShivankK26">
+  <a href="https://x.com/0x_shiv">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:shivankkapur2004@gmail.com">
