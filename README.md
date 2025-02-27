@@ -45,7 +45,7 @@ I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WU
 - Built a Dashboard for analysis of Competitor Bridges like - Across Protocol, Stargate.
 - Evangelized about the Products - Router Nitro and cross-chain Intent Framework.
 - Built Router Academy - Platform for Learning CrossChain Development using Router Protocol.
-- Wrote Technical Articles to help Developers get Onboard.
+- Wrote Technical Articles to help Developers get Onboard..
 </details>
 
 <details>
