@@ -35,7 +35,7 @@
 
 ### :woman_technologist: About Me :-
 
-I am a Full Stack Blockchain Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely......!
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in crypto and AI!
 
 <details>
 <summary><b>Developer Relations Engineer at Router Protocol</b></summary>
