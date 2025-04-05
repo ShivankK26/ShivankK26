@@ -40,7 +40,7 @@ I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMp
 <details>
 <summary><b>Developer Relations Engineer at Router Protocollll</b></summary>
   
-- Worked on SDK, CLI, and Dev Documentations and weekly audits for Developer Resources, fixed issues in Testnet v2.
+- Worked on SDK, CLI, and Dev Documentations and weekly audits for Developer Resources, fixed issues in Testnet v2..
 - Researched more on Ethereum Ecosystem for improving the technology.
 - Built a Dashboard for analysis of Competitor Bridges like - Across Protocol, Stargate.
 - Evangelized about the Products - Router Nitro and cross-chain Intent Framework.
