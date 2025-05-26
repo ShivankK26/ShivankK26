@@ -49,7 +49,7 @@ I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMp
 </details>
 
 <details>
-<summary><b>Blockchain Engineer at Doge Capital</b></summary>
+<summary><b>Blockchain Engineer at Merklehq (Doge Capital)</b></summary>
   
 - Led the Frontend Engineering Team.
 - Worked on Solana and other Protocol Integrations.
