@@ -54,7 +54,7 @@ I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMp
   
 - Led the Frontend Engineering Team.
 - Worked on Solana and other Protocol Integrations.
-- Did Extensive Testing of the Products like wardrobe.live and fomowtf.com in Alpha and Beta Phase.
+- Core engineer of the Products like wardrobe.live and fomowtf.com in Alpha and Beta Phase.
 </details>
 
 <details>
