@@ -39,6 +39,16 @@
 I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in crypto and AI space! Find me shipping cool products.
 
 <details>
+<summary><b>Sr. Product Engineer at ChimpX AI</b></summary>
+  
+- Joined as a sr. product engineer and now heading the product & engineering team.
+- Building an end-to-end trading infrastructure to provide the best UX for onboarding users to crypto.
+- Handling the entire product side from scratch and leading the research & development side.
+- Planning out the product roadmap and working on various partner integrations.
+- Worked primarily on the backend and integrations side of things.
+</details>
+
+<details>
 <summary><b>Developer Relations Engineer at Router Protocol</b></summary>
   
 - Worked on SDK, CLI, and Dev Documentations and weekly audits for Developer Resources, fixed issues in Testnet v2.
@@ -46,7 +56,7 @@ I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMp
 - Built a Dashboard for analysis of Competitor Bridges like - Across Protocol, Stargate.
 - Evangelized about the Products - Router Nitro and cross-chain Intent Framework.
 - Built Router Academy - Platform for Learning CrossChain Development using Router Protocol.
-- Wrote Technical Articles to help Developers get Onboard..
+- Wrote Technical Articles to help Developers get Onboard.
 </details>
 
 <details>
