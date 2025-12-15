@@ -86,6 +86,8 @@ our audience.
 - Planning out Growth Strategies for Push DAO.
 </details>
 
+LFG!!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
