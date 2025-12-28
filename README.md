@@ -134,6 +134,7 @@ LFG!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="githubactions" alt="githubactions" width="40" height="40"/>&nbsp;        
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebooks" alt="Jupyter Notebooks" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="aws" alt="aws" width="40" height="40"/>&nbsp;
 
 
   <h2>Design & Other Tools</h2>
