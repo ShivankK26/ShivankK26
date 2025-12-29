@@ -45,7 +45,7 @@ I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMp
 - Building an end-to-end trading infrastructure to provide the best UX for onboarding users to crypto.
 - Handling the entire product side from scratch and leading the research & development side.
 - Planning out the product roadmap and working on various partner integrations.
-- Worked primarily on the backend and integrations side of things including protocol-side.
+- Worked primarily on the backend and integrations side of things including protocol-side..
 </details>
 
 <details>
