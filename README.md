@@ -36,7 +36,7 @@
 
 ### :woman_technologist: About Me :-
 
-I am a Full Stack Engineeeeeeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in crypto and AI space! Find me shipping cool products.
+I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in crypto and AI space! Find me shipping cool products.
 
 <details>
 <summary><b>Sr. Product Engineer at ChimpX AI</b></summary>
