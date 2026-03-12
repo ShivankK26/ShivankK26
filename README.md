@@ -156,12 +156,16 @@ LFG!!
 ### :fire: My Stats :
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" title="GitHub Stats" alt="GitHub Stats" height="500" width="700"/>
-<img src="https://stats.quine.sh/ShivankK26/github?theme=dark" width="350">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankK26&theme=blue-green"> 
-<img src="https://stats.quine.sh/ShivankK26/dependencies?theme=dark" width="350">
-<img src="https://stats.quine.sh/ShivankK26/topics-over-time?theme=dark" width="350">
-<img src="https://stats.quine.sh/ShivankK26/languages-over-time?theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivankK26&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankK26&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivankK26&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 
