@@ -49,17 +49,6 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 </details>
 
 <details>
-<summary><b>Developer Relations Engineer at Router Protocol</b></summary>
-  
-- Worked on SDK, CLI, and Dev Documentations and weekly audits for Developer Resources, fixed issues in Testnet v2.
-- Researched more on Ethereum Ecosystem for improving the technology.
-- Built a Dashboard for analysis of Competitor Bridges like - Across Protocol, Stargate.
-- Evangelized about the Products - Router Nitro and cross-chain Intent Framework.
-- Built Router Academy - Platform for Learning CrossChain Development using Router Protocol.
-- Wrote Technical Articles to help Developers get Onboard.
-</details>
-
-<details>
 <summary><b>Blockchain Engineer at Merklehq (Prev. Doge Capital)</b></summary>
   
 - Led the Frontend Engineering Team.
