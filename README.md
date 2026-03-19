@@ -66,15 +66,6 @@ our audience.
 - Assisted with Report Planning, Editorial Calendar Management, and Report Distribution across Multiple Platforms.
 </details>
 
-<details>
-<summary><b>Technical Program Moderator at Push Protocol</b></summary>
-  
-- Managing all the Push Protocol India Ambassadors. 
-- Planning & Executing Effective Strategies to Grow Push Protocol Ambassador Program. 
-- Making Open Source Contributions & helping in Maintaining the Push Docs. 
-- Planning out Growth Strategies for Push DAO.
-</details>
-
 LFG!!
 
 ---
