@@ -28,18 +28,28 @@
 <br>
 
 <h1 align="center">
-  Hey there,
+  hey there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  myself Shivank, a cracked engineer who ships anything!!!!!!!
+  myself shiv!
 </h1>
 
 
 ### :woman_technologist: About Me :-
 
-I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in tech! Find me shipping cool products.
+i'm a sr. software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in tech! find me shipping scalable systems.
 
 <details>
-<summary><b>Product Lead at ChimpX AI</b></summary>
+<summary><b>sr. software engineer at crackeddevs</b></summary>
+  
+- worked w/ 5+ seed-stage startups to design and ship production-grade products, supporting 10k+ cumulative end users across platforms.
+- built and scaled systems across crypto trading, DeFi, AI, and fintech, contributing to million dollars of cumulative transaction volume.
+- delivered end-to-end full-stack solutions (blockchain integrations, backend APIs, real-time pipelines, and frontend apps), improving feature delivery speed by ~80-90% for client teams.
+- worked directly with founders and early engineering teams in 0 → 1 environments, helping launch multiple MVPs and production releases with 99.9% uptime and scalable architectures.
+
+</details>
+
+<details>
+<summary><b>product lead at chimpX ai</b></summary>
   
 - joined as a sr. product engineer and later headed the product & engineering team, leading a cross-functional team (4-6 engineers) across backend, infra, and AI systems.
 - architected and built end-to-end crypto trading infrastructure, primarily backend-driven, enabling <2-minute user onboarding, 99.9% system uptime, and a 40% reduction in user drop-offs during wallet connection and first trade.
@@ -49,7 +59,7 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 </details>
 
 <details>
-<summary><b>DevRel/Forward Deployed Engineer at Router Protocol</b></summary>
+<summary><b>devrel/forward deployed engineer at router protocol</b></summary>
   
 - led the development of SDK & CLI toolkits, dev documentation and weekly audits for developer resources, resulting in 100+ SDK/CLI downloads, 30% reduction in integration issues, and improved onboarding time for new developers by ~40%.
 - •⁠  ⁠built a real-time token-tracking dashboard to track the performance of ROUTE token across all 6+ exchanges (CEX & DEX) delivering live price, volume, and liquidity alerts, etc. to Slack; collaborated with the market-making team to improve liquidity depth and reduce price spread volatility by ~15-20%.
@@ -59,7 +69,7 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 </details>
 
 <details>
-<summary><b>Integrations Engineer at Merklehq (Prev. Doge Capital)</b></summary>
+<summary><b>integrations engineer at merklehq (Prev. Doge Capital)</b></summary>
   
 - led the frontend engineering team, owning UI architecture, code quality, and delivery across multiple consumer-facing crypto products.
 - implemented protocol integrations across Solana and EVM-based chains, enabling multi-chain asset interactions and reducing integration turnaround time by ~30% through reusable components and standardized APIs.
@@ -67,7 +77,7 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 </details>
 
 <details>
-<summary><b>Research Analyst at BlackRabbit</b></summary>
+<summary><b>research analyst at blackrabbit</b></summary>
   
 - conducted in-depth research on various cryptocurrency projects, blockchain technology, and decentralized finance (defi) protocols. especially in bitcoin, ethereum, depin, solana, RWA ecosystem.
 - tracked market trends, on-chain data, and industry developments, synthesizing insights into actionable research briefs used for internal strategy and public-facing content.
