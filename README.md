@@ -41,29 +41,37 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 <details>
 <summary><b>Product Lead at ChimpX AI</b></summary>
   
-- Joined as a sr. product engineer and now heading the product & engineering team.
-- Built an end-to-end trading infrastructure to provide the best UX for onboarding users to crypto.
-- Handled the entire product side from scratch and leading the research & development side.
+- joined as a sr. product engineer and later headed the product & engineering team, leading a cross-functional team (4-6 engineers) across backend, infra, and AI systems.
+- architected and built end-to-end crypto trading infrastructure, primarily backend-driven, enabling <2-minute user onboarding, 99.9% system uptime, and a 40% reduction in user drop-offs during wallet connection and first trade.
+- designed and deployed AI trading agents on BNB Chain and Katana, alongside a DEX aggregator, backed by high-throughput infra (MCP servers, load balancers, autoscaling) capable of handling 10x traffic spikes without latency degradation.
 - Planned out the product roadmap and working on various partner integrations.
-- Worked primarily on the backend and integrations side of things including protocol-side..
+- owned product roadmap, growth strategy, and execution, scaling 3 core products to $500K+ cumulative trading volume, 9.5K+ registered users, and 25K+ on-chain transactions within the year.
+</details>
+
+<summary><b>DevRel/Forward Deployed Engineer at Router Protocol</b></summary>
+  
+- led the development of SDK & CLI toolkits, dev documentation and weekly audits for developer resources, resulting in 100+ SDK/CLI downloads, 30% reduction in integration issues, and improved onboarding time for new developers by ~40%.
+- •⁠  ⁠built a real-time token-tracking dashboard to track the performance of ROUTE token across all 6+ exchanges (CEX & DEX) delivering live price, volume, and liquidity alerts, etc. to Slack; collaborated with the market-making team to improve liquidity depth and reduce price spread volatility by ~15-20%.
+- evangelized about the products - router nitro and cross-chain intent framework (CCIF) through workshops, demos, and technical content, reaching 500+ developers across community calls, hackathons, and online sessions.
+- Planned out the product roadmap and working on various partner integrations.
+- created router academy - a learning platform for cross-chain development using router protocol, onboarding 300+ developers, publishing 15+ tutorials, and driving 50+ production or testnet integrations.
 </details>
 
 <details>
-<summary><b>Blockchain Engineer at Merklehq (Prev. Doge Capital)</b></summary>
+<summary><b>Integrations Engineer at Merklehq (Prev. Doge Capital)</b></summary>
   
-- Led the Frontend Engineering Team.
-- Worked on Solana and other Protocol Integrations.
-- Core engineer of the Products like wardrobe.live and fomowtf.com in Alpha and Beta Phase.
+- led the frontend engineering team, owning UI architecture, code quality, and delivery across multiple consumer-facing crypto products.
+- implemented protocol integrations across Solana and EVM-based chains, enabling multi-chain asset interactions and reducing integration turnaround time by ~30% through reusable components and standardized APIs.
+- drove alpha and beta testing for products including wardrobe.live and fomowtf.com, executing 100+ test cases across wallet connections, transactions, and edge cases; identified and resolved critical UX and transaction-flow bugs prior to public release. 
 </details>
 
 <details>
 <summary><b>Research Analyst at BlackRabbit</b></summary>
   
-- Conducted in-depth Research on various Cryptocurrency Projects, Blockchain Technology, and Decentralized Finance (DeFi) Protocols. Especially in Bitcoin, Ethereum, DePin, Solana, RWA Ecosystem.
-- Analyzed Market Trends, Industry news, and emerging Developments in the Crypto Space.
-- Created high-quality written Reports, including Articles, Blog Posts and Social Media updates, to educate and engage
-our audience.
-- Assisted with Report Planning, Editorial Calendar Management, and Report Distribution across Multiple Platforms.
+- conducted in-depth research on various cryptocurrency projects, blockchain technology, and decentralized finance (defi) protocols. especially in bitcoin, ethereum, depin, solana, RWA ecosystem.
+- tracked market trends, on-chain data, and industry developments, synthesizing insights into actionable research briefs used for internal strategy and public-facing content.
+- assisted with report planning, editorial calendar management, and report distribution across multiple platforms.
+- created high-quality written reports, including articles, blog posts and social media updates, to educate and engage our audience.
 </details>
 
 LFG!!
