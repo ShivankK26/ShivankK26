@@ -48,6 +48,7 @@ I am a Full Stack Engineeeeeeeeer <img src="https://media.giphy.com/media/WUlplc
 - owned product roadmap, growth strategy, and execution, scaling 3 core products to $500K+ cumulative trading volume, 9.5K+ registered users, and 25K+ on-chain transactions within the year.
 </details>
 
+<details>
 <summary><b>DevRel/Forward Deployed Engineer at Router Protocol</b></summary>
   
 - led the development of SDK & CLI toolkits, dev documentation and weekly audits for developer resources, resulting in 100+ SDK/CLI downloads, 30% reduction in integration issues, and improved onboarding time for new developers by ~40%.
