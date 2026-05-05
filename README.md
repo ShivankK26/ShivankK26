@@ -37,7 +37,7 @@
 
 ### :woman_technologist: About Me :-
 
-i'm a sr. software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in tech! find me shipping scalable systems & products.
+i'm a sr. software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in tech space! find me shipping scalable systems & products.
 
 <details>
 <summary><b>sr. software engineer at crackeddevs</b></summary>
