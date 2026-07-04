@@ -35,7 +35,7 @@
 </h1>
 
 
-### :woman_technologist: About Me :-
+### :woman_technologist: About Me
 
 i'm a sr. software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working remotely in tech space! find me shipping scalable systems & products.
 
@@ -90,7 +90,7 @@ LFG!!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <div align="center">
 
@@ -183,7 +183,7 @@ LFG!!
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivankK26&show_icons=true&theme=radical&hide_border=true" height="180"/>
